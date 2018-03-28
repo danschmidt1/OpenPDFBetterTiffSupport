@@ -53,7 +53,7 @@ import java.awt.Color;
 import com.github.text.ExceptionConverter;
 import com.github.text.Image;
 import com.github.text.Rectangle;
-/** Base class containing properties and methods common to all
+/** Base class  containing properties and methods common to all
  * barcode types.
  *
  * @author Paulo Soares (psoares@consiste.pt)

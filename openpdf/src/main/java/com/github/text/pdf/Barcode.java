@@ -59,7 +59,7 @@ import com.github.text.Rectangle;
  * @author Paulo Soares (psoares@consiste.pt)
  */
 public abstract class Barcode {
-    /** A type of barcode */
+    /** A type of barcode  */
     public static final int EAN13 = 1;
     /** A type of barcode */
     public static final int EAN8 = 2;

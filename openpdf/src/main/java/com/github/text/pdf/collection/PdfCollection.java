@@ -5,6 +5,8 @@ import com.github.text.pdf.PdfName;
 import com.github.text.pdf.PdfString;
 
 public class PdfCollection extends PdfDictionary {
+	
+	// commit a
 
 	/** A type of PDF Collection */
 	public static final int DETAILS = 0;

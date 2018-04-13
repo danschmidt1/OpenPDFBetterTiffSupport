@@ -77,5 +77,5 @@ public interface ContentOperator {
      *         stream
      */
     String getOperatorName();
-   // commit b CO
+
 }

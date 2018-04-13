@@ -52,7 +52,7 @@ import java.awt.Color;
 import java.io.IOException;
 
 public class MetaBrush extends MetaObject {
-
+	// commit b
     public static final int BS_SOLID = 0;
     public static final int BS_NULL = 1;
     public static final int BS_HATCHED = 2;

@@ -47,7 +47,7 @@
  * you aren't using an obsolete version:
  * http://www.lowagie.com/iText/
  */
-// foo foo foo
+
 package com.github.text;
 
 import java.util.ArrayList;

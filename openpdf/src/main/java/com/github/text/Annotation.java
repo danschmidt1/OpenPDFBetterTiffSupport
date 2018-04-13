@@ -65,7 +65,7 @@ public class Annotation implements Element {
 
 	// membervariables
 
-	/** This is a possible annotation type. */
+	/** This is a possible annotation type. jjjjj */
 	public static final int TEXT = 0;
 
 	/** This is a possible annotation type. */

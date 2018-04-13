@@ -61,6 +61,7 @@ import com.github.text.error_messages.MessageLocalization;
  * 
  * @author blowagie
  */
+// commit b to Webcolors
 public class WebColors extends HashMap {
     
 	private static final long serialVersionUID = 3542523100813372896L;

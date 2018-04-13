@@ -57,6 +57,7 @@ import com.github.text.pdf.PdfObject;
  * @since 2.1.4
  */
 public interface ContentOperator {
+// commit A 
     /**
      * Invokes a content operator.
      * 

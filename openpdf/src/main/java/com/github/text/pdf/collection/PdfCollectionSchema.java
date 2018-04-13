@@ -10,7 +10,8 @@ public class PdfCollectionSchema extends PdfDictionary {
 	public PdfCollectionSchema() {
 		super(PdfName.COLLECTIONSCHEMA);
 	}
-	
+	// commit d
+
 	/**
 	 * Adds a Collection field to the Schema.
 	 * @param name	the name of the collection field

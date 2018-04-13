@@ -68,6 +68,7 @@ public interface ContentOperator {
      * @param resources
      *            TODO
      */
+// commit c CO
     void invoke(ArrayList<PdfObject> operands,
                 PdfContentStreamHandler handler, PdfDictionary resources);
 

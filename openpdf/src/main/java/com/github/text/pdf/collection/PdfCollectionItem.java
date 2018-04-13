@@ -11,8 +11,7 @@ import com.github.text.pdf.PdfObject;
 import com.github.text.pdf.PdfString;
 
 public class PdfCollectionItem extends PdfDictionary {
-	// commit c
-
+	
 	/** The PdfCollectionSchema with the names and types of the items. */
 	PdfCollectionSchema schema;
 	

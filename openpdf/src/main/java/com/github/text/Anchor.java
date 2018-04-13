@@ -90,6 +90,7 @@ public class Anchor extends Phrase {
      * Constructs an <CODE>Anchor</CODE> without specifying a leading.
      */
     public Anchor() {
+    	// and here is some more stuff
         super(16);
     }
     

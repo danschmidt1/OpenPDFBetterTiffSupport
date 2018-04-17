@@ -53,7 +53,7 @@ package com.github.text.xml.xmp;
  * An implementation of an XmpSchema.
  */
 public class PdfA1Schema extends XmpSchema {
-    
+    // pdf c
     private static final long serialVersionUID = 5300646133692948168L;
     /** default namespace identifier*/
     public static final String DEFAULT_XPATH_ID = "pdfaid";

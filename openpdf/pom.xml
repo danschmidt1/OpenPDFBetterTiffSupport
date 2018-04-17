@@ -3,7 +3,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 <!-- a change first change -->
-    <parent>
+<!-- a second change -->    
+<parent>
         <groupId>com.github.librepdf</groupId>
         <artifactId>openpdf</artifactId>
         <version>1.0.5</version>

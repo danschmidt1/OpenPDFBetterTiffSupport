@@ -48,7 +48,7 @@
  */
 
 package com.github.text.xml.xmp;
-
+//A
 
 /**
  * An implementation of an XmpSchema.

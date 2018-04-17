@@ -53,7 +53,7 @@ import java.util.Enumeration;
 import java.util.Properties;
 
 public class LangAlt extends Properties {
-
+// la b
 	/** A serial version id. */
 	private static final long serialVersionUID = 4396971487200843099L;
 	
